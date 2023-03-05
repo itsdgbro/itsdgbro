@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsdgbro
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning programming
-- 💞️ I’m studying Computer Science
+- 👀 Interested in gaming
+- 🌱 Learning programming
+- 💞️ Computer Science Student
 - 📫 How to reach me ***
 
 <!---
