@@ -2,7 +2,6 @@
 - 👀 Interested in gaming
 - 🌱 Learning programming
 - 💞️ Computer Science Student
-- 📫 How to reach me ***
 
 <!---
 itsdgbro/itsdgbro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
